@@ -1,8 +1,9 @@
 {
-  "name": "company-website",
+  "name": "legacygroup",
   "version": "0.1.0",
-  "homepage": "https://Nimish-Jain.github.io/Company-Website-React",
-  "private": true,
+  "homepage": "https://al-mohad.io/legacy-group",
+  "private": false,
+  "description": "",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
