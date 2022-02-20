@@ -1,1 +1,1 @@
-setTimeout(function () { window.location.href = "src/index.html" }, 5000);
+setTimeout(function () { window.location.href = "build/index.html" }, 5000);
