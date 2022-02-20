@@ -31,16 +31,22 @@ function Service() {
               <Card
                 title="Legacy Schools"
                 imgsrc={img3}
-                info=""
+                info="Get ready for a world-class education at our legacy international schools in the Nigeria. At our schools, we go beyond traditional learning to deliver a high quality, transformational education to thousands of students from kindergarten through to the end of secondary school."
               />
-              <Card title="Business Analytics"
+              <Card
+                title="Business Analytics"
                 imgsrc={img4}
+                info="We provide S.O.L.I.D. business analysis and risk management through S.W.A.T. to run your bussiness without failure."
               />
-              <Card title="Medical Services"
+              <Card
+                title="Medical Services"
                 imgsrc={img5}
+                info="We offer a variety of services to support your health and well-being; through disease management tools & technology."
               />
-              <Card title="Fragnance"
+              <Card
+                title="Fragnance"
                 imgsrc={img6}
+                info="We manufacture bath and body products such as scented candles and Niche fragnances to mention a few."
               />
             </div>
           </div>

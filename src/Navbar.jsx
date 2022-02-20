@@ -29,6 +29,15 @@ function Navbar() {
                     <NavLink
                       activeClassName="menu_active"
                       className="nav-link"
+                      to="/directors"
+                    >
+                      Directors
+                    </NavLink>
+                  </li>
+                  <li className="nav-item">
+                    <NavLink
+                      activeClassName="menu_active"
+                      className="nav-link"
                       to="/service"
                     >
                       Services
