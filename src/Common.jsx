@@ -12,12 +12,14 @@ function Common({ name, imgsrc, visit, btname }) {
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                   <h1>
                     {name}
-                    <strong className="brand-name"> GrowMore Inc. </strong>
+                    <strong className="brand-name"> Legacy Group </strong>
+                    of companies
                   </h1>
 
                   <h2 className="my-3">
-                    We're a team of talented developers that can help your
-                    business grow!
+                    {/* We're a team of talented developers that can help your
+                    business grow! */}
+                    Quas maiores qui soluta quia voluptatem quod. Sed molestiae cumque ducimus nam omnis. In incidunt numquam doloribus a. Ipsa quis id commodi. Vel qui rerum. Modi facere voluptatem est et est officiis quod omnis debitis.
                   </h2>
 
                   <div className="mt-3">
