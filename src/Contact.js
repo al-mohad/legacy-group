@@ -21,7 +21,7 @@ function Contact() {
                   type="text"
                   className="form-control"
                   id="exampleFormControlInput1"
-                  placeholder="Enter Your Name"
+                  placeholder="Enter Your Full Name"
                 />
               </div>
               <div className="form-group pt-3">
@@ -30,7 +30,7 @@ function Contact() {
                   type="text"
                   className="form-control"
                   id="exampleFormControlInput1"
-                  placeholder="+91-"
+                  placeholder="+234-"
                 />
               </div>
               <div className="form-group pt-3">
@@ -39,7 +39,7 @@ function Contact() {
                   type="email"
                   className="form-control"
                   id="exampleFormControlInput1"
-                  placeholder="name@example.com"
+                  placeholder="name@domain.com"
                 />
               </div>
 

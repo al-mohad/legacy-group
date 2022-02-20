@@ -13,7 +13,7 @@ function Card({ title, imgsrc, info }) {
               {info}
             </p>
             <NavLink to="/contact" className="btn btn-primary">
-              Get Quote
+              Get more info
             </NavLink>
           </div>
         </div>

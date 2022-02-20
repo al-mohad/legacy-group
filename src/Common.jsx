@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
-function Common({ name, imgsrc, visit, btname }) {
+function Common({ name, imgsrc, visit, btname, subtitle }) {
   return (
     <>
       <section id="header" className="d-flex align-items-center">
@@ -19,7 +19,7 @@ function Common({ name, imgsrc, visit, btname }) {
                   <h2 className="my-3">
                     {/* We're a team of talented developers that can help your
                     business grow! */}
-                    Quas maiores qui soluta quia voluptatem quod. Sed molestiae cumque ducimus nam omnis. In incidunt numquam doloribus a. Ipsa quis id commodi. Vel qui rerum. Modi facere voluptatem est et est officiis quod omnis debitis.
+                    {subtitle}
                   </h2>
 
                   <div className="mt-3">

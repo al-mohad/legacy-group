@@ -18,14 +18,20 @@ function Service() {
         <div className="row">
           <div className="col-10 mx-auto">
             <div className="row gy-4">
-              <Card title="Confectionaries"
+              <Card
+                title="Confectionaries"
                 imgsrc={img1}
-                info="sdcdsb" />
-              <Card title="Engineering Consultancy"
-                imgsrc={img2}
+                info="Our confectionery services is open for different types of events eg. weddings, anniversaries, birthdays and other special occassions or festivals. Our Confectionery Products includes Donuts, parfaits, cookies, cakes & more; with rich ingerients such as almond, peanuts, berries etc."
               />
-              <Card title="Legacy Schools"
+              <Card
+                title="Engineering Consultancy"
+                imgsrc={img2}
+                info="At LCGE, we aimed at designing an organizational structure which will allow us to provide our clients with great service, by working on a variety of projects. LCEG vision is to the best provider of civil engineering, survening & construction quality management.The service includes planning & design of residential and commercial..."
+              />
+              <Card
+                title="Legacy Schools"
                 imgsrc={img3}
+                info=""
               />
               <Card title="Business Analytics"
                 imgsrc={img4}

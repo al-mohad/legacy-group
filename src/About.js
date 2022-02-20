@@ -10,6 +10,7 @@ function About() {
         imgsrc={web}
         visit="/contact"
         btname="Contact Us"
+        subtitle="Established in 1999, Legacy Group of Companies started off with the school sections in the year 2000. It went into the confectionery bussiness in 2020; and other aspects were involved subsequently."
       />
     </>
   );
